@@ -24,3 +24,7 @@ The dataset contains physicochemical properties of wine such as acidity levels, 
 - Volatile acidity has the strongest negative relationship with quality.
 - Sulphates and citric acid show moderate positive associations.
 - Residual sugar and pH have minimal influence on wine ratings.
+
+## Correlation Visualization
+
+![Correlation Chart](Correlation%20vs.%20Feature.png)
